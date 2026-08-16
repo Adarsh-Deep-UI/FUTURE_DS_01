@@ -5,9 +5,6 @@
 <head>
 
 
-
-
-
 <h2>Business Performance Summary</h2>
 
 Revenue Trends
